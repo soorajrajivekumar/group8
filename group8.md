@@ -30,16 +30,15 @@ The industry of agriculture is focused on the extensive, intensive production of
 
 ## The Problem
 
-The problem our buisness idea is one that can detect and diagnose diseases, pests, malnutrition in plants, identify weeds. It aims to use various models of [machine learning](https://en.wikipedia.org/wiki/Machine_learning) to help in helping reduce the overall spread of plant diseases by detecting their issues earlier so that they can be treated effective immediately.
-
+The problem we aim to provide a solution to is the suffering endured my several farmers due to plant diseases and pests in their crops which affect their harvest and produce  which, in turn, affects their livelihood and forces them into a more dire and severe situation.
 
 ## The Solution
 
 ### Describe your proposed AI-based solution
 
+Our business idea is to create a solution that can detect and diagnose diseases, pests, malnutrition in plants, identify weeds. It aims to use various models of [machine learning](https://en.wikipedia.org/wiki/Machine_learning) to help in helping reduce the overall spread of plant diseases by detecting their issues earlier so that they can be treated effective immediately.
+
 *Flora Sage* is an avant-garde mobile application designed to revolutionize the agricultural sector enabling gardeners, farmers, and plant enthusiasts to effortlessly identify diseases and defects in their plants. Powered by advanced Convolutional Neural Network (CNN) technology, this app provides accurate and efficient plant diagnosis, along with suitable suggestions for treatment and care.
-
-
 
 ### Target Market
 
