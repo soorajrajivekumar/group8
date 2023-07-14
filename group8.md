@@ -34,7 +34,7 @@ The industry of agriculture is focused on the extensive, intensive production of
 
 # AI Application Case Study:
 
-<img src="[https://github.com/soorajrajivekumar/group8/blob/main/My%20Movie%208-2.gif]" width="40%" align="left"/>
+<img src="[https://github.com/soorajrajivekumar/group8/blob/main/My%20Movie%208-2.gif]"/>
 
 ## The Problem
 
