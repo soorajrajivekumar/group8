@@ -34,11 +34,26 @@ The industry of agriculture is focused on the extensive, intensive production of
 
 # AI Application Case Study:
 
-<img src="[https://github.com/soorajrajivekumar/group8/blob/main/My%20Movie%208-2.gif]"/>
 
 ## The Problem
 
-The problem we aim to provide a solution to is the suffering endured my several farmers due to plant diseases and pests in their crops which affect their harvest and produce  which, in turn, affects their livelihood and forces them into a more dire and severe situation.
+<img src="https://github.com/soorajrajivekumar/group8/blob/main/Screenshot%202023-07-15%20at%2012.39.46%20AM.png" data-canonical-src="[https://github.com/soorajrajivekumar/group8/blob/main/GettyImages-1318237749.jpg-2.webp](https://github.com/soorajrajivekumar/group8/blob/main/Screenshot%202023-07-15%20at%2012.39.46%20AM.png)" width="32%" align="left" />
+
+<img src="https://github.com/soorajrajivekumar/group8/blob/main/fat.png" data-canonical-src="[https://github.com/soorajrajivekumar/group8/blob/main/fat.png](https://github.com/soorajrajivekumar/group8/blob/main/fat.png)" width="40%" align="right" />
+
+<img src="https://github.com/soorajrajivekumar/group8/blob/main/BRUH.png" data-canonical-src="[https://github.com/soorajrajivekumar/group8/blob/main/BRUH.png](https://github.com/soorajrajivekumar/group8/blob/main/BRUH.png)" width="32%" align="left" />
+
+The problem we aim to provide a solution to is the 
+### <ins>suffering and subsequent losses</ins> incurred by several farmers due to <ins> plant diseases and pests </ins>
+in their crops which affect their harvest and produce  which, in turn, affects their livelihood and forces them into a more dire and severe situation.
+<br>
+
+<br>
+
+<br>
+
+<br>
+
 <br>
 
 ## The Solution
@@ -47,9 +62,12 @@ The problem we aim to provide a solution to is the suffering endured my several 
 
 Our business idea is to create a solution that can detect and diagnose diseases, pests, malnutrition in plants, identify weeds. It aims to use various models of [machine learning](https://en.wikipedia.org/wiki/Machine_learning) to help in helping reduce the overall spread of plant diseases by detecting their issues earlier so that they can be treated effective immediately.
 
-*Flora Sage* is an avant-garde mobile application designed to revolutionize the agricultural sector enabling gardeners, farmers, and plant enthusiasts to effortlessly identify diseases and defects in their plants. Powered by advanced Convolutional Neural Network (CNN) technology, this app provides accurate and efficient plant diagnosis, along with suitable suggestions for treatment and care.
+<ins> **Flora Sage**</ins> is an avant-garde mobile application designed to revolutionize the agricultural sector enabling gardeners, farmers, and plant enthusiasts to effortlessly identify diseases and defects in their plants. Powered by advanced Convolutional Neural Network (CNN) technology, this app provides accurate and efficient plant diagnosis, along with suitable suggestions for treatment and care.
+<p align="center">
+<img src="https://github.com/soorajrajivekumar/group8/blob/main/1*7_BCJFzekmPXmJQVRdDgwg-2.png" data-canonical-src="[https://github.com/soorajrajivekumar/group8/blob/main/1*7_BCJFzekmPXmJQVRdDgwg-2.png)" width="68%" align="middle" /> 
+</p>
 
-### Target Market
+## Target Market
 
 Our target market will be farmers, companys assosciated with farm produce, agricultural service providers, government bodies assosciated with the agricultural sector within their respective territories, sustainable agriculture organizations, etc.
 
@@ -59,11 +77,21 @@ The Flora Sage app presents a comprehensive and innovative solution to the commo
 
 ##  Future Scope
 
+<img src="https://github.com/soorajrajivekumar/group8/blob/main/14554356efa3ceb843934c4dfa9fee4d-2.png" data-canonical-src="[https://github.com/soorajrajivekumar/group8/blob/main/14554356efa3ceb843934c4dfa9fee4d-2.png)" width="50%" align="left" /> 
+
 The true beauty of Flora Sage lies in its ability to continuously improve and enhance its diagnostic capabilities. As more people utilize the app and contribute their plant images for defect analysis, leverages this collective data to further train and refine the AI algorithms. Through a process known as "indirect training," the app learns from real-world examples and evolves its understanding of plant diseases and defects, ultimately leading to more accurate diagnoses and tailored recommendations in the future.
+
+<br>
+
+<br>
 
 # Conclusion
 
+<img src="https://github.com/soorajrajivekumar/group8/blob/main/ai_agriculture.jpg" data-canonical-src="[https://github.com/soorajrajivekumar/group8/blob/main/ai_agriculture.jpg)" width="41%" align="right" /> 
+
 Flora Sage is not just an app; it's a game-changer in the world of agriculture. By harnessing the power of artificial intelligence, specifically Convolutional Neural Networks, Flora Sage empowers farmers, gardeners, and plant enthusiasts to detect and diagnose diseases, pests, and malnutrition in plants with unmatched accuracy. The app provides timely suggestions for treatment and care, enabling early intervention and reducing the overall spread of plant diseases.
+
+<br> 
 
 # Sample of Defining Architecture of CNN Model
 
