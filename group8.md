@@ -24,6 +24,7 @@ The industry of agriculture is focused on the extensive, intensive production of
 
 [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) has been burgeoning in the field of agriculture with its potential applications in cultivating healthier crops, managing pests, monitoring soil and growing conditions, analysing data for farmers, enhancing other management activities of the food supply chain. Artificial intelligence further betters the conventional methods used in the filed of agriculture with its adaptability, precision, speedy performance, ability to do repetitive tasks, and cost viability.
 
+![AI in agriculture]([https://someurl/imagelocation/image.png](https://github.com/soorajrajivekumar/group8/blob/main/GettyImages-1318237749.jpg-2.webp)) 
 ---
 
 # AI Application Case Study:
