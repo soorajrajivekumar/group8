@@ -34,6 +34,8 @@ The industry of agriculture is focused on the extensive, intensive production of
 
 # AI Application Case Study:
 
+<img src="[https://github.com/soorajrajivekumar/group8/blob/main/My%20Movie%208-2.gif]" width="40%" align="left"/>
+
 ## The Problem
 
 The problem we aim to provide a solution to is the suffering endured my several farmers due to plant diseases and pests in their crops which affect their harvest and produce  which, in turn, affects their livelihood and forces them into a more dire and severe situation.
