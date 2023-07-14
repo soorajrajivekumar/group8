@@ -16,15 +16,13 @@ Team Members:
 |-------|----------|
 |Harvest of Artificial Intelligence: AI's notable importance in the agriculture sector| AI in Agriculture |
 
-## Introduction
+## Introduction 
 
 The industry of agriculture is focused on the extensive, intensive production of crops and domestication of animals. Artificial Intelligence is revolutionizing the [agrarian world](https://en.wikipedia.org/wiki/Agrarian_society) by replacing traditional methods by using methods that are more effective and yielding.    
 
 ## The Role of AI in the Industry
 
 [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) has been burgeoning in the field of agriculture with its potential applications in cultivating healthier crops, managing pests, monitoring soil and growing conditions, analysing data for farmers, enhancing other management activities of the food supply chain. Artificial intelligence further betters the conventional methods used in the filed of agriculture with its adaptability, precision, speedy performance, ability to do repetitive tasks, and cost viability.
-
-![AI in agriculture]((https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1318237749.jpg?fit=750%2C500&strip=all))
 
 ---
 
@@ -33,6 +31,7 @@ The industry of agriculture is focused on the extensive, intensive production of
 ## The Problem
 
 The problem we aim to provide a solution to is the suffering endured my several farmers due to plant diseases and pests in their crops which affect their harvest and produce  which, in turn, affects their livelihood and forces them into a more dire and severe situation.
+<br>
 
 ## The Solution
 
