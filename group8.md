@@ -19,12 +19,17 @@ Team Members:
 ## Introduction 
 
 The industry of agriculture is focused on the extensive, intensive production of crops and domestication of animals. Artificial Intelligence is revolutionizing the [agrarian world](https://en.wikipedia.org/wiki/Agrarian_society) by replacing traditional methods by using methods that are more effective and yielding.    
+<br>
+
+<img src="https://github.com/soorajrajivekumar/group8/blob/main/GettyImages-1318237749.jpg-2.webp" data-canonical-src="https://github.com/soorajrajivekumar/group8/blob/main/GettyImages-1318237749.jpg-2.webp" width="40%" align="right" />
+
 
 ## The Role of AI in the Industry
 
 [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) has been burgeoning in the field of agriculture with its potential applications in cultivating healthier crops, managing pests, monitoring soil and growing conditions, analysing data for farmers, enhancing other management activities of the food supply chain. Artificial intelligence further betters the conventional methods used in the filed of agriculture with its adaptability, precision, speedy performance, ability to do repetitive tasks, and cost viability.
 
-![AI in agriculture]([https://someurl/imagelocation/image.png](https://github.com/soorajrajivekumar/group8/blob/main/GettyImages-1318237749.jpg-2.webp)) 
+<br>
+
 ---
 
 # AI Application Case Study:
